@@ -1,2 +1,1 @@
-# Financial inclusion in africa
- 
+Owning a bank account in Africa is regarded as a way of financial inclusion, The model developed tries to predict the possiblity of an individual owning a bank account using various information such as education level, household size, country of origion and income. The data is from Zindi Africa https://zindi.africa/competitions/financial-inclusion-in-africa
